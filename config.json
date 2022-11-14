@@ -1,0 +1,11 @@
+{
+"token":"TOKEN",
+"prefix":"n!",
+"color":"0xff0000",
+"lavalink":{
+    "host":"tel1horlavalinkserver.tel1horjp.repl.co",
+    "port":"443",
+    "password":"tel1horlava",
+    "https":true
+  }
+}
